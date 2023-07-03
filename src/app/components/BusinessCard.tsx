@@ -3,12 +3,7 @@ import Coverphoto from "./Coverphoto";
 import Profilepic from "./Profilepic";
 import Profile from "./Profile";
 import Card from "./Card";
-import {
-  AiOutlineFolder,
-  AiOutlineFacebook,
-  AiOutlineInstagram,
-  AiFillTwitterSquare,
-} from "react-icons/ai";
+import { AiOutlineFolder } from "react-icons/ai";
 import { IoShareOutline } from "react-icons/io5";
 import { BsTelephone } from "react-icons/bs";
 import SocialMedia from "./SocialMedia";
