@@ -3,7 +3,7 @@ import React from "react";
 const BusinessHours = () => {
   return (
     <div className="mt-8">
-      <h1 className="text-4xl text-center">Business Hours</h1>
+      <h1 className="text-2xl md:text-4xl text-center">Business Hours</h1>
       <div>
         <div className="flex justify-center mt-8">
           <ul className="grid grid-cols-2 gap-2">

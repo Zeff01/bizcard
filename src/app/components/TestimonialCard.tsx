@@ -25,7 +25,7 @@ const TestimonialCard: React.FC<TestimonialCardProps> = ({
         alt="imageUrl"
         width={500}
         height={500}
-        className="rounded-full w-40 h-40 overflow-hidden object-fit"
+        className="rounded-full w-32 h-32 overflow-hidden "
       />
       <div className="flex = ">
         {filledStars}
